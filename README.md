@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MHK-2000
 - 👀 I’m interested in ... programming 
-- 🌱 I’m currently learning ... pythin
+- 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... data sets
 - 📫 How to reach me ...
 
